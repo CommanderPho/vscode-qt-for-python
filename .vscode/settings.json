@@ -12,5 +12,12 @@
     "source.fixAll": true,
     "source.organizeImports": true
   },
-  "typescript.preferences.importModuleSpecifier": "relative"
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f",
+    "activityBar.background": "#362D01",
+    "titleBar.activeBackground": "#4C3F01",
+    "titleBar.activeForeground": "#FFFBE8"
+  }
 }
